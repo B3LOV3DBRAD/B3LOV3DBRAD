@@ -1,4 +1,5 @@
 ## 👋 Hi there, I'm Brad (B3LOV3DBRAD)
+### I recently launched this GitHub to centralize my past projects and share future work as I build my career in data science. You’ll find a mix of academic work, personal explorations, and practical applications here — with more to come.
 
 **Data Science Graduate** | Minor in Applied Mathematics  
 4.0 GPA — Summa Cum Laude — Wentworth Institute of Technology  
