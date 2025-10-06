@@ -41,4 +41,4 @@ What motivates me most is **uncovering the story behind the data** and turning i
 
 ---
 
-** In a field as competitive as data science, many can handle the technical demands—but not everyone can bring art to the science. I take pride in bridging that gap: combining analytical rigor with thoughtful interpretation to uncover the stories hidden in the data.**
+*In a field as competitive as data science, many can handle the technical demands—but not everyone can bring art to the science. I take pride in bridging that gap: combining analytical rigor with thoughtful interpretation to uncover the stories hidden in the data.*
