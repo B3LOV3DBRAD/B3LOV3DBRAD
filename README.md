@@ -14,7 +14,7 @@ My academic and project work has focused on applying data science techniques to 
 
 - 📈 **[Portfolio Optimization Tool](https://github.com/B3LOV3DBRAD/ClusteringSeniorProject)** – Used clustering algorithms to group 120+ stocks and design investment strategies that outperformed the S&P 500 during backtesting.  
 - 🧠 **[Heart Attack Classifier](https://github.com/B3LOV3DBRAD/HeartAttackClassifier)** – Built and evaluated multiple ML models on a medical dataset (Bernoulli Naïve Bayes reached 86.9% accuracy and 0.94 AUC).  
-- 🏀 **[NBA Draft Analysis](https://github.com/B3LOV3DBRAD/NBADraftAnalysis)** – Explored 30+ years of NBA data using regression and statistical testing to find trends and predictors of player success.
+- 🏀 **[NBA Draft Analysis](https://github.com/B3LOV3DBRAD/FinalReportNBAData)** – Explored 30+ years of NBA data using regression and statistical testing to find trends and predictors of player success.
 
 During my internships at State Street and Intact Insurance, I worked on fintech products, data reporting, and large-scale analytics to support strategic decision-making.
 I also tutored students at Wentworth, which pushed me to slow down, find clearer ways to explain complex ideas, and connect with people who think differently than I do.
