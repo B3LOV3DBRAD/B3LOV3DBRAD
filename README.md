@@ -12,7 +12,7 @@ I’ve always had a natural connection with numbers. When I was younger, I loved
 
 My academic and project work has focused on applying data science techniques to real problems, including:
 
-- 📈 **[Portfolio Optimization Tool](https://github.com/B3LOV3DBRAD/PortfolioOptimizationTool)** – Used clustering algorithms to group 120+ stocks and design investment strategies that outperformed the S&P 500 during backtesting.  
+- 📈 **[Portfolio Optimization Tool](https://github.com/B3LOV3DBRAD/ClusteringSeniorProject)** – Used clustering algorithms to group 120+ stocks and design investment strategies that outperformed the S&P 500 during backtesting.  
 - 🧠 **[Heart Attack Classifier](https://github.com/B3LOV3DBRAD/HeartAttackClassifier)** – Built and evaluated multiple ML models on a medical dataset (Bernoulli Naïve Bayes reached 86.9% accuracy and 0.94 AUC).  
 - 🏀 **[NBA Draft Analysis](https://github.com/B3LOV3DBRAD/NBADraftAnalysis)** – Explored 30+ years of NBA data using regression and statistical testing to find trends and predictors of player success.
 
