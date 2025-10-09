@@ -1,9 +1,9 @@
 ## I'm Brad (B3LOV3DBRAD)
 ### I recently launched this GitHub to centralize my past projects and share future work as I build my career in data science. You’ll find a mix of academic work, personal explorations, and practical applications here — with more to come.
 
-**Data Science Graduate** | Minor in Applied Mathematics  
+Data Science Graduate | Minor in Applied Mathematics  
 4.0 GPA — Summa Cum Laude — Wentworth Institute of Technology  
-Product Analyst Co-Op @ **State Street** | IT Intern @ **Intact Insurance**
+Product Analyst Co-Op @ State Street | IT Intern @ Intact Insurance
 
 ---
 
@@ -20,7 +20,7 @@ My academic and project work has focused on applying data science techniques to 
 During my internships at State Street and Intact Insurance, I worked on fintech products, data reporting, and large-scale analytics to support strategic decision-making.
 I also tutored students at Wentworth, which pushed me to slow down, find clearer ways to explain complex ideas, and connect with people who think differently than I do.
 
-What motivates me most is **uncovering the story behind the data** and turning it into something that can actually change decisions. It’s like Moneyball—using numbers to see things differently, challenge intuition, and move with strategy instead of guesswork.
+What motivates me most is uncovering the story behind the data and turning it into something that can actually change decisions. It’s like Moneyball—using numbers to see things differently, challenge intuition, and move with strategy instead of guesswork.
 
 ---
 
