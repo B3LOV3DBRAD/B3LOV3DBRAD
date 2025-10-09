@@ -1,4 +1,5 @@
-## I'm Brad (B3LOV3D is my steam and CSGO name, so i felt like B3LOV3DBRAD is a fitting username)
+## I'm Brad 
+(B3LOV3D is my steam and CSGO name, so i felt like B3LOV3DBRAD is a fitting username)
 ### I recently launched this GitHub to centralize my past projects and share future work as I build my career in data science. You’ll find a mix of academic work, personal explorations, and practical applications here — with more to come.
 
 Data Science Graduate | Minor in Applied Mathematics  
